@@ -1,0 +1,6 @@
+kukorica 100
+árpa 30
+alma 4
+tej 1
+joghurt 4
+vas 10
